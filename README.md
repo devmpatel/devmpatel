@@ -1,6 +1,11 @@
 ### Hey I'm Dev 👋
-# Languages
-
+<body>
+    <h1>Hey, I'm Anay!</h1>
+    <h2>Languages</h2>
+    <h2>About</h2>
+    <p>I am a CS student at the University of Michigan. Follow along to see my personal projects and hear about my passions!</p>
+    <p>You can check out my personal website at <a href="https://www.anaymodi.com" target="_blank">Anay Modi</a>, which is currently under construction! My <a href="https://www.linkedin.com/in/anaymodi" target="_blank">LinkedIn</a> is also here if anyone wants to connect! Go blue!!</p>
+</body>
 
 
 <!--
