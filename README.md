@@ -1,6 +1,6 @@
-### Hey I'm Dev 👋
+
 <body>
-    <h1>Hey, I'm Anay!</h1>
+    <h1>Hey, I'm Dev! 👋</h1>
     <h2>Languages</h2>
       <svg width="100" height="100">
         <image xlink:href="http://www.w3.org/2000/svg" width="100" height="100" />
