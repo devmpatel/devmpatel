@@ -8,6 +8,7 @@
     <h2>About</h2>
     <p>I am a CSE student at the University of Michigan.</p>
     <p> My <a href="https://www.linkedin.com/in/devmp" target="_blank">LinkedIn</a> is also here if anyone wants to connect!</p>
+    <p>Here is a current project I am working on! <a href="https://github.com/anay-m/WallStreetBets-Website.git" target="_blank">WallStreetBets</a></p>
 </body>
 
 
