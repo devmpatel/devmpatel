@@ -15,7 +15,7 @@
             <img src="https://github.com/devmpatel/devmpatel/blob/main/js.svg" alt="Image 3" width=50 height=50>
             <img src="https://github.com/devmpatel/devmpatel/blob/main/css.svg" alt="Image 2" width=50 height=50>
             <img src="https://github.com/devmpatel/devmpatel/blob/main/html.svg" alt="Image 3" width=50 height=50>
-            <img src="https://github.com/devmpatel/devmpatel/blob/main/sql.png" alt="Image 3" width=50 height=50>
+            <img src="https://github.com/devmpatel/devmpatel/blob/main/sql.png" alt="Image 3" width=70 height=50>
         </div>
     <h2>About</h2>
     <p>I am a CSE student at the University of Michigan.</p>
