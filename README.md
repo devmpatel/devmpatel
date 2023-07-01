@@ -2,7 +2,7 @@
 <body>
     <h1>Hey, I'm Dev! 👋</h1>
     <h2>Languages</h2>
-         <img src="https://github.com/devmpatel/devmpatel/blob/main/css.svg" width=200 height=200></img>
+         <img src="https://github.com/devmpatel/devmpatel/blob/main/css.svg" width=100 height=100></img>
     <h2>About</h2>
     <p>I am a CSE student at the University of Michigan.</p>
     !(https://raw.githubusercontent.com//MarikIshtar007/MarikIshtar007/blob/master/images/python2.png)
