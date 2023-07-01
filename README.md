@@ -10,8 +10,8 @@
     <h1>Hey, I'm Dev! 👋</h1>
     <h2>Languages</h2>
         <div class="image-container">
-            <img src="https://github.com/devmpatel/devmpatel/blob/main/cpp.svg" alt="Image 1">
-            <img src="https://github.com/devmpatel/devmpatel/blob/main/css.svg" alt="Image 2">
+            <img src="https://github.com/devmpatel/devmpatel/blob/main/cpp.svg" alt="Image 1" width=70 height=70>
+            <img src="https://github.com/devmpatel/devmpatel/blob/main/css.svg" alt="Image 2" width=70 height=70>
             <img src="image3.jpg" alt="Image 3">
         </div>
     <h2>About</h2>
