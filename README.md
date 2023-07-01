@@ -11,9 +11,13 @@
             <img src="https://github.com/devmpatel/devmpatel/blob/main/sql.png" alt="Image 3" width=70 height=50>
         </div>
     <h2>About</h2>
-    <p>I am a CSE student at the University of Michigan.</p>
-    <p>Connect with me on <a href="www.linkedin.com/in/devmp">LinkedIn</a>!</p>
-    <p>Here is a current project I am working on! <a href="https://github.com/anay-m/WallStreetBets-Website.git" target="_blank">WallStreetBets</a></p>
+        <p>I am a CSE student at the University of Michigan.</p>
+        <p>Connect with me on <a href="www.linkedin.com/in/devmp">LinkedIn</a>!</p>
+        <p>Here is a current project I am working on! <a href="https://github.com/anay-m/WallStreetBets-Website.git" target="_blank">WallStreetBets</a></p>
+    <h2>Contact</h2>
+        <a href="mailto:devmp@umich.edu">
+            <img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_dark_1x.png" alt="Gmail Logo">
+        </a>
 </body>
 
 
