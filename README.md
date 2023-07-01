@@ -2,9 +2,7 @@
 <body>
     <h1>Hey, I'm Dev! 👋</h1>
     <h2>Languages</h2>
-      <svg width="100" height="100">
-        <image xlink:href="http://www.w3.org/2000/svg" width="100" height="100" />
-        </svg>
+         <img src="https://pnghut.com/png/eHD3bKuRkj/python-programming-language-computer-symbol-science-transparent-png" alt="Python Programming Language">
     <h2>About</h2>
     <p>I am a CSE student at the University of Michigan.</p>
     <p> My <a href="https://www.linkedin.com/in/devmp" target="_blank">LinkedIn</a> is also here if anyone wants to connect!</p>
