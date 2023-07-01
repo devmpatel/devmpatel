@@ -1,11 +1,4 @@
-<style>
-    .image-container {
-      display: flex;
-    }
-    .image-container img {
-      margin-right: 10px; /* Add some spacing between images */
-    }
-</style>
+
 <body>
     <h1>Hey, I'm Dev! 👋</h1>
     <h2>Languages</h2>
