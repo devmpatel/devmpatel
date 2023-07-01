@@ -2,8 +2,7 @@
 <body>
     <h1>Hey, I'm Dev! 👋</h1>
     <h2>Languages</h2>
-         [![Python Programming Language](https://raw.githubusercontent.com/devmpatel/devmpatel/blob/main/css.svg)]
-         <img src="https://raw.githubusercontent.com/devmpatel/devmpatel/blob/main/css.svg"
+         <img src="https://raw.githubusercontent.com/devmpatel/devmpatel/blob/main/css.svg"></img>
     <h2>About</h2>
     <p>I am a CSE student at the University of Michigan.</p>
     !(https://raw.githubusercontent.com//MarikIshtar007/MarikIshtar007/blob/master/images/python2.png)
