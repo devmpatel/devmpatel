@@ -16,7 +16,7 @@
         </div>
     <h2>About</h2>
     <p>I am a CSE student at the University of Michigan.</p>
-    <p>Connect with me on <a href="www.linkedin.com/in/devmp">LinkedIn!</a></p>
+    <p>Connect with me on <a href="www.linkedin.com/in/devmp">LinkedIn</a>!</p>
     <p>Here is a current project I am working on! <a href="https://github.com/anay-m/WallStreetBets-Website.git" target="_blank">WallStreetBets</a></p>
 </body>
 
