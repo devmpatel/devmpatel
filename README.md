@@ -17,6 +17,7 @@
     <h2>Contact</h2>
         <a href="mailto:devmp@umich.edu">
             <img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_dark_1x.png" alt="Gmail Logo">
+            devmp@umich.edu
         </a>
 </body>
 
