@@ -2,7 +2,7 @@
 <body>
     <h1>Hey, I'm Dev! 👋</h1>
     <h2>Languages</h2>
-         <img src="https://pnghut.com/png/eHD3bKuRkj/python-programming-language-computer-symbol-science-transparent-png" alt="Python Programming Language">
+         [![Python Programming Language](https://raw.githubusercontent.com/devmpatel/devmpatel/blob/main/css.svg)]
     <h2>About</h2>
     <p>I am a CSE student at the University of Michigan.</p>
     !(https://raw.githubusercontent.com//MarikIshtar007/MarikIshtar007/blob/master/images/python2.png)
