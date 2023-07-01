@@ -1,9 +1,19 @@
-
+<style>
+    .image-container {
+      display: flex;
+    }
+    .image-container img {
+      margin-right: 10px; /* Add some spacing between images */
+    }
+  </style>
 <body>
     <h1>Hey, I'm Dev! 👋</h1>
     <h2>Languages</h2>
-        <img src="https://github.com/devmpatel/devmpatel/blob/main/cpp.svg" width=70 height=70></img>
-        <img src="https://github.com/devmpatel/devmpatel/blob/main/css.svg" width=70 height=70></img>
+        <div class="image-container">
+            <img src="https://github.com/devmpatel/devmpatel/blob/main/cpp.svg" alt="Image 1">
+            <img src="https://github.com/devmpatel/devmpatel/blob/main/css.svg" alt="Image 2">
+            <img src="image3.jpg" alt="Image 3">
+        </div>
     <h2>About</h2>
     <p>I am a CSE student at the University of Michigan.</p>
     !(https://raw.githubusercontent.com//MarikIshtar007/MarikIshtar007/blob/master/images/python2.png)
