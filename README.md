@@ -16,7 +16,7 @@
         <p>Here is a current project I am working on! <a href="https://github.com/anay-m/WallStreetBets-Website.git" target="_blank">WallStreetBets</a></p>
     <h2>Contact</h2>
         <a href="mailto:devmp@umich.edu">
-            devmp@umich.edu
+            <p>devmp@umich.edu</p>
             <img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_dark_1x.png" alt="Gmail Logo">
         </a>
 </body>
