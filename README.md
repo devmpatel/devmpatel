@@ -12,7 +12,7 @@
         <div class="image-container">
             <img src="https://github.com/devmpatel/devmpatel/blob/main/cpp.svg" alt="Image 1" width=70 height=70>
             <img src="https://github.com/devmpatel/devmpatel/blob/main/css.svg" alt="Image 2" width=70 height=70>
-            <img src="image3.jpg" alt="Image 3">
+            <img src="https://github.com/devmpatel/devmpatel/blob/main/python.svg" alt="Image 3" width=70 height=70>
         </div>
     <h2>About</h2>
     <p>I am a CSE student at the University of Michigan.</p>
